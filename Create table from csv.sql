@@ -1,0 +1,5 @@
+LOAD DATA INFILE 'C:/Users/bouss/Downloads/fonc.csv'
+INTO TABLE cordinateur
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
